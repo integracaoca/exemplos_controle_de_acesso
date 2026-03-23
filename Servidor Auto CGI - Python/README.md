@@ -1,8 +1,8 @@
-# Documentação de Comentários Adicionados
+# Servidor Auto CGI - Comentários e Documentação do Código
 
-## Resumo
-Foram adicionados comentários explicativos detalhados em todos os arquivos do projeto `Servidor Auto CGI`, documentando a função de cada classe, método e bloco de código.
+Este documento resume os comentários adicionados ao projeto **Servidor Auto CGI**, com foco em facilitar a leitura, manutenção e entendimento do fluxo principal da aplicação.
 
+A proposta dos comentários foi explicar o papel de cada parte importante do sistema sem sobrecarregar o código com observações desnecessárias.
 ---
 
 ## Arquivo: `main.py`
@@ -213,6 +213,6 @@ Se falha → Continua loop (não mata servidor)
 
 ---
 
-**Projeto:** API-Intelbras - Servidor Auto CGI V3  
+**Projeto:** API-Intelbras - Servidor Auto CGI 
 **Linguagem:** Python 3.x  
 **Data:** Novembro 2025
